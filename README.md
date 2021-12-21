@@ -1,4 +1,4 @@
-# Constructing A Flask App Presenting Data About Mars and Mars Missions
+# Constructing A Flask App To Present Data About Mars and Mars Missions
 
 ### *Files*:
 - Jupyter Notebook File: [Mission_to_Mars_Challenge](Mission_to_Mars_Challenge.ipynb)
